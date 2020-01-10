@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm mainly a **.NET Developer** with a long experience in **C#**. I also develop in **F#**. Outside **.NET**, I like using **Python** and I've started studying **Go**.
 
-### More Information
+I'm very interested in all **computer science** subjects, most of all **functional programming** and **software correctness**.
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm based in Italy.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Email: [gsscoder@gmail.com](gsscoder@gmail.com)
+
+Twitter: [gsscoder](https://twitter.com/gsscoder)
