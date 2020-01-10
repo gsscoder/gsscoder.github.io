@@ -25,7 +25,7 @@ Then add reference to main **AnlgeSharp** package:
 $ dotnet add package AngleSharp --version 0.14.0-alpha-788
 ```
 
-I said _main_ because **AngleSharp** is a very large project and has other components, like [AngleSharp.IO](https://github.com/AngleSharp/AngleSharp.Io) that provides additional requesters and IO helpers.
+I said _main_ because **AngleSharp** is a very large project and has other components, like [AngleSharp.Io](https://github.com/AngleSharp/AngleSharp.Io) that provides additional requesters and IO helpers.
 
 ##### Basic usage
 
