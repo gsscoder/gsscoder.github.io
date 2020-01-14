@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Scraping Google with AngleSharp"
-tags: [API Usage]
+tags: [API Usage, Code]
 ---
 
 Web scraping is the act of extracting data from web sites. From a programming standpoint it's performing an **HTTP** request and parsing the **HTML** response. This may involve taking care of various _low level_ details, like handling a stateful session and run into _bad formed_ **HTML**.
