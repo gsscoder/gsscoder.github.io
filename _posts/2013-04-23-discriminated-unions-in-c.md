@@ -62,7 +62,7 @@ abstract class Booking
   protected Booking(BookingType tag)
   {
     this.tag = tag;
-  }<br/>
+  }
   public BookingType Tag
   {
     get { return this.tag; }
