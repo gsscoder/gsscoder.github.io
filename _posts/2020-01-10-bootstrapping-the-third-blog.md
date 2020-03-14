@@ -20,3 +20,5 @@ Anyway I've reposted articoles from second blog:
 Thanks to [jekyll-now](https://github.com/barryclark/jekyll-now) I created my third blog in very few time and in a simple way.
 
 Hoping to post more than in the past, I wish you good reading!
+
+If you want to comment, please send me a pull request.
