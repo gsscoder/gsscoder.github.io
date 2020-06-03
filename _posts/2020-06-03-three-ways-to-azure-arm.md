@@ -179,4 +179,4 @@ resource "azurerm_app_service" "your_app_service" {
 
 I suggest you to provision resources starting with a combination of Az module and Az CLI (giving priority to the first) and left ARM templates as last resort. I hope that sharing my experiences with Azure ARM could help you save a nice amount of time. _So, it's time to sculpt some cloud!_
 
-I want to thank  my actual employer [Dev4Side](https://www.dev4side.com/), a Gold Microsoft Partner, for allowing me to work in a such interesting field.
+I want to thank  my actual employer [Dev4Side](https://www.dev4side.com/), a **Gold Microsoft Partner**, for allowing me to work in a such interesting field.
