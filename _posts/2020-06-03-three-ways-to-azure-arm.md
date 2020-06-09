@@ -22,7 +22,7 @@ At end of the day the only way to interact with ARM is through its REST API inte
 
 ##### Az module
 
-Az module should be your first choice to interact with ARM. It's a cross-[PowerShell](https://docs.microsoft.com/en-us/powershell/) module that allow you to do _almost_ anything. In my experience, despite it's still limited, I'm pretty sure you'll be unable to automate some step using Az module APIs. Sometime this may happens for lack of documentation or simply because it's simply not possible. I also experimented weird behaviours where the same exact input values makes an Az module call to fail, but perfectly works for Az CLI.
+Az module should be your first choice to interact with ARM. It's a cross-platform [PowerShell](https://docs.microsoft.com/en-us/powershell/) module that allow you to do _almost_ anything. In my experience, despite it's still limited, I'm pretty sure you'll be unable to automate some step using Az module APIs. Sometime this may happens for lack of documentation or simply because it's simply not possible. I also experimented weird behaviours where the same exact input values makes an Az module call to fail, but perfectly works for Az CLI.
 
 At the moment I was developing ARM scripts Az module was missing [AAD](https://azure.microsoft.com/it-it/services/active-directory/) commands. I'm sure these still don't exist at moment of publishing of this article. See this [GitHub issue](https://github.com/Azure/azure-powershell/issues/9074) about that. The solution was to rely on Az CLI.
 
