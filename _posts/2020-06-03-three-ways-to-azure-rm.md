@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Three ways to Azure ARM"
+title: "Three ways to Azure RM"
 tags: [Azure, ARM, PowerShell]
 ---
 
 In latest months I switched from developing applications to designing their build infrastructure on Microsoft [Azure](https://azure.microsoft.com/en-us/). It was quite challenging at the beginning, but it's a very interesting and rewarding field.
 
-The process of provisioning resources on Azure is called **ARM** and can be completely automated.
+The process of provisioning resources on Azure is handled by **ARM** (Azure Resource Manager) and can be completely automated.
 
 Despite I'm still learning everyday about this wide and fascinating environment, there's a couple of interesting things I'd like to share.
 
